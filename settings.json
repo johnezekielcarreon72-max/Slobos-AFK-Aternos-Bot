@@ -8,7 +8,7 @@
   "server": {
     "ip": "zekesmp.aternos.me",
     "port": 33020,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
